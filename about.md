@@ -7,15 +7,6 @@ layout: page
 <p>I am Nilesh Chandekar passionate about the technology, having good grip on  Openstack|Kubernetes|Openshift|Ceph|Terraform|Git/Lab|Docker|Ansible|Jenkins|AgroCD|Helm|Private Cloud|Devops|GitOps|
 
 
-<p>Experiance: 
-
-```
-Openstack and Kubernetes Cloud Engineer - IVOpenstack and Kubernetes Cloud Engineer - IV
-Rackspace Technology · Full-timeRackspace Technology · Full-time
-Mar 2022 - Present · 1 yr 7 mosMar 2022 - Present · 1 yr 7 mos
-Delhi, India
-```
-
 
 <h2>Skills</h2>
 
