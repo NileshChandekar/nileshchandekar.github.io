@@ -11,6 +11,7 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
+	<li>Linux - 11Yrs </li>
 	<li>Openstack - 8Yrs </li>
 	<li>Kubernetes - 3Yrs</li>
 	<li>Ceph - 3Yrs</li>
