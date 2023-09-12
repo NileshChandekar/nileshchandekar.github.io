@@ -1,5 +1,5 @@
 ---
-title: "Markdown Extra Components"
+title: "Multi-Region Openstack Deployment"
 layout: post
 date: 2016-02-24 22:48
 image: /assets/images/markdown.jpg
