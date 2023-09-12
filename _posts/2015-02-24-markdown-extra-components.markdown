@@ -1,7 +1,7 @@
 ---
 title: "Multi-Region Openstack Deployment"
 layout: post
-date: 2016-02-24 22:48
+date: 2023-09-12 09:50
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -13,6 +13,8 @@ author: jamesfoster
 description: Markdown summary with different options
 ---
 
+
+![1](https://github.com/NileshChandekar/nileshchandekar.github.io/blob/gh-pages/assets/images/multi-region-osp-deploy.gif)
 ## Summary:
 
 You can pick as item to see how to apply in markdown.
