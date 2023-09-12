@@ -4,19 +4,18 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I am Nilesh Chandekar passionate about the technology, having good grip on  Openstack|Kubernetes|Openshift|Ceph|Terraform|Git/Lab|Docker|Ansible|Jenkins|AgroCD|Helm|Private Cloud|Devops|GitOps|
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+<p>Experiance: 
+
+```
+Openstack and Kubernetes Cloud Engineer - IVOpenstack and Kubernetes Cloud Engineer - IV
+Rackspace Technology · Full-timeRackspace Technology · Full-time
+Mar 2022 - Present · 1 yr 7 mosMar 2022 - Present · 1 yr 7 mos
+Delhi, India
+```
+
 
 <h2>Skills</h2>
 
@@ -39,7 +38,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+#	<li><a href="https://github.com/">Lorem Lorem</a></li>
+#	<li><a href="https://github.com/">Ipsum Dolor</a></li>
+#	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
