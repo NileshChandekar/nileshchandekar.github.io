@@ -14,7 +14,7 @@ description: Markdown summary with different options
 ---
 
 
-![1](https://github.com/NileshChandekar/nileshchandekar.github.io/blob/gh-pages/assets/images/multi-region-osp-deploy.gif)
+#![1](https://github.com/NileshChandekar/nileshchandekar.github.io/blob/gh-pages/assets/images/multi-region-osp-deploy.gif)
 ## Summary:
 
 You can pick as item to see how to apply in markdown.
