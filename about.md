@@ -20,25 +20,23 @@ Delhi, India
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
+	<li>Openstack - 8Yrs </li>
+	<li>Kubernetes - 3Yrs</li>
+	<li>Ceph - 3Yrs</li>
+	<li>Openshift - 3Yrs</li>
+	<li>Terraform</li>
 	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Gitlab</li>
+	<li>Docker</li>
+	<li>Ansible</li>
+	<li>Jenkins</li>
+	<li>MySQL</li>
+	<li>ArgoCD</li>
+	<li>Helm</li>
+	<li>Private Cloud</li>
+	<li>Consulting</li>
+	<li>Free Lancing</li>
+	<li>DevOps</li>
+	<li>GitOps</li>
 </ul>
 
-<h2>Projects</h2>
-
-<ul>
-#	<li><a href="https://github.com/">Lorem Lorem</a></li>
-#	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-#	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
