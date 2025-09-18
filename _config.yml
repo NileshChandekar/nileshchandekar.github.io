@@ -23,7 +23,8 @@ resume-url: https://github.com/NileshChandekar/nileshchandekar.github.io/blob/gh
 #url: https://sergiokopplin.github.io/indigo
 # your url: https://USERNAME.github.io
 
-permalink: /:title/
+#permalink: /:title/
+permalink: /blog/:title/
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
